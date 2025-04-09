@@ -6,9 +6,11 @@ This repository is a submission for the **Alai Slide Automation Challenge**. It 
 
 ## Project Structure
 
-├── app.js # Creates a new presentation and generates a shareable link 
-├── other.js # Contains other reverse-engineered API integrations 
-├── README.md # Project 
+```
+├── app.js         # Creates a new presentation and generates a shareable link 
+├── other.js       # Contains other reverse-engineered API integrations 
+├── README.md      # Project documentation
+```
 
 ## Installation & Usage
 
